@@ -1,0 +1,32 @@
+---
+title: "Projects"
+description: |
+  A collection of some projects from my time at  George Washington University. 
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[**CO2 Offset Project Investigation**](https://eda.seas.gwu.edu/showcase/2022-fall.html)
+
+***
+[**California Drought Impact Mitigation and Policy Analysis**](https://docs.google.com/document/d/e/2PACX-1vRrwYWG7JHipxE5ZMRhLMEriElA02jJCj8Nw--Uj8T-B4y7VRro0Gf55sxLLqtUUg/pub)
+
+***
+[**California Drought Impact and Policy Sensitivity Analysis -Poster**](https://drive.google.com/file/d/1amXaKpdLSuTbRbbTwzIeHcfCGn63JMjn/view?usp=sharing)
+
+***
+[**Market-Based Water Quality Trading For the Chesapeake Bay Watershed**](https://docs.google.com/document/d/e/2PACX-1vSmbNTkgr8NoUBkfqwTTzTQK8mS7xbhHSCI--KKjAqGCtRpKb6em8odOinjD-ivHg/pub)
+
+***
+[**Solar-Pollinator Sustainability Capstone Report**](https://docs.google.com/document/d/e/2PACX-1vTSXmLyAzavh_EgoaAD8I85t24fPIGe5u805DR6PLgaQlUQcgbd0w2PMBZRBUtqXQ/pub)
+
+*** 
+[**Native Pollinator Mix for the District of Columbia**](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRMh8WkLzznaNAZJytSgP7GVU2ZiX4U2UV3cT1r7s-sqc03yPxeITD-Cjz4GL6ZQ/pubhtml?gid=480761771&single=true)
+
+*** 
+[**Failure Mode and Effects Analysis (FMEA) For Phosphogypsum Tailing Dams in Florida**](https://docs.google.com/document/d/e/2PACX-1vQmGzTDMBOd_TkEPFHmADXt3_m-FrMWV3oDH4BUbvxXrIaw8ApIBgNQJtR66keoxw/pub)
+
+*** 

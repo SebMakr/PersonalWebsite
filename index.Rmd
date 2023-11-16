@@ -1,0 +1,34 @@
+---
+title: "Sebastian Makrides"
+image: "images/headshot.png"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/sebastian-makrides92"
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:seb.makrides@gmail.com"
+    
+
+  
+output:
+    postcards::jolla
+    
+
+site: distill::distill_website
+---
+
+I am currently based in NYC.
+
+I am a Spring 2023 graduate from the George Washington University with a BS in Systems Engineering and a minor in Sustainability. I have a passion for problem solving, environmental stewardship, and shortening the gap between science and society.
+
+I have expertise in conducting comprehensive research, programming for analytics, and exploratory data analysis, data forecasting and modeling.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```

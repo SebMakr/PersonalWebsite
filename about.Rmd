@@ -1,0 +1,13 @@
+---
+title: "About Me"
+description: |
+  I am Spring 2023 graduate from the George Washington University with a BS in Systems Engineering and a minor in Sustainability. I have a passion for problem solving and environmental stewardship
+  
+#model after helvy
+---
+
+S
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

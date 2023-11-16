@@ -1,0 +1,29 @@
+---
+title: "Publications"
+
+
+
+description: | 
+  
+  A paper which characterizes the cost saving potential that drinking water utilities may realize when forest cover within the source water area is preserved and/or increased. To do so the paper analyzes the relationships between land cover, water quality, and drinking water treatment costs must be evaluated.
+
+
+author: 
+  - name: Jordan Fox | Bill Hodgins | Deb Caraco, PE | Karen Cappiella | Sebastian Makrides
+  
+date: "October 2021"
+
+output: distill::distill_article
+---
+
+**Evaluating the Economic Benefits of Land Protection in the Savannah River Watershed (Full Report)**
+
+<https://savannahrivercleanwater.org/wp-content/uploads/2022/04/Evaluating-the-Economic-Benefits-of-Land-Protection-in-the-Savannah-River-Watershed-compressed.pdf>
+
+------------------------------------------------------------------------
+
+**Evaluating the Economic Benefits of Land Protection in the Savannah River Watershed (White Paper)**
+
+<https://savannahrivercleanwater.org/wp-content/uploads/2022/04/2022_CWP_WhitePaper_v5.pdf>
+
+------------------------------------------------------------------------
